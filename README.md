@@ -30,3 +30,8 @@ Connecting to Ports: Used to attempt connections to specified ports.
 Receiving Data: Used to receive data (banners) from open ports.
 Handling Timeouts: settimeout() is used to avoid hanging on unresponsive ports.
 
+Contributing
+If you wish to contribute to this project, please fork the repository and submit a pull request with your improvements or bug fixes.
+
+License
+This project is licensed under the MIT License.
